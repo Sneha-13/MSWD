@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size:x-large;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+img {
+display: block;
+width: 20%;
+margin-left: auto;
+margin-right: auto;
+ }
+    
+ html{
+     background-color:skyblue;
+ }
+ p{
+     font-size:large;
+ }
+body{
+    width: 600px;
+    margin:auto;
+    background-color:pink;
+    padding: 0 40px 40px 40px;
+    border: 7px solid black;
+}
